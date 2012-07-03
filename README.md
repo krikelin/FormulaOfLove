@@ -1,0 +1,2 @@
+# Formula of Love melody
+This melody is freely published under CC license for use in new songs. I see the future music industry like what happening in the computer world - open sourcing and selling by subscriptions. Like more vendors moves to Linux-based architectures and open licenses, I think the same happens in music industry.
